@@ -1,0 +1,4 @@
+# ignore all .json files
+adventure game-token.json
+# ignore all .zip files 
+secure-connect-adventure-game.zip
